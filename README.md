@@ -27,7 +27,6 @@ For any inquiries or further information, you can reach out to us at:
  - dd3269@columbia.edu
  - www.linkedin.com/in/daniel-david-453806205
    
-
 Start exploring the world of advanced mathematics with **The Greatest Variety Of Calculators**!
 
 Happy calculating! 🧮✨
