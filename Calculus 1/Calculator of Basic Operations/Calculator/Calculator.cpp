@@ -2,7 +2,7 @@
 #include <cmath>
 
 using namespace std;
-
+//Main func
 int main() {
 
 	double num1, num2;
@@ -10,7 +10,7 @@ int main() {
 
 	cout << "------------\nCalculator:\n------------\n\nEnter the first number, operation, and than the second number:\n";
 	cout << "At the end, press enter\n";
-
+// insert data
 	cin >> num1 >> operation >> num2;
 
 	switch (operation) {
