@@ -4,7 +4,6 @@
 using namespace std;
 
 int main() {
-
 	double num1, num2;
 	char operation;
 
@@ -25,7 +24,6 @@ int main() {
 	default:cout << "Not valid operation!" << endl;
 		cout << endl;
 	}
-
 	system("pause");
 	return 0;
 }
