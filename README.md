@@ -10,7 +10,7 @@ Welcome to **The Greatest Variety Of Calculators** repository! This collection i
 - **Linear Algebra**: Provides tools for matrix operations, solving systems of linear equations, and other linear algebra tasks.
 
 ## How to Use
-
+ 
 Each directory corresponds to a specific mathematical discipline. Simply navigate to the directory relevant to your current study area, and you'll find the corresponding calculators along with instructions on how to use them.
 
 ## Contributing
